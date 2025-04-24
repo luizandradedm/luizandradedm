@@ -12,3 +12,7 @@ Olá! Sejam Bem-vendo ao meu delírio!🤯
 
   <a href="https://instagram.com/luizandradedm" alvo="_em branco"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alvo="_em branco"></a>
   <a href="https://www.linkedin.com/in/luizandradeadm/" alvo="_em branco"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alvo="_em branco"></a> 
+
+## 🐍 Snake de Contribuições
+![Snake animation](https://luizandradedm.github.io/luizandradedm/github-contribution-grid-snake.svg)
+

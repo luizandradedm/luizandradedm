@@ -1,11 +1,11 @@
 Olá! Sejam Bem-vendo ao meu delírio!🤯
-<div estilo="exibição: inline_block"><br>
- <img alinhar="centro" alt="luizandradedm"alta="10" largura="10" src="https://img.icons8.com/?size=100&id=49190&formato=png&color=000000">
- <img alinhar="centro" alt="luizandradedm"alta="10" largura="10" src="https://img.icons8.com/?size=100&id=0tpqgxISselU&formato=png&color=000000">
- <img alinhar="centro" alt="luizandradedm"alta="10" largura="10" src="https://img.icons8.com/?size=100&id=YWDsCjL0c2qv&formato=png&color=000000">
-<img alinhar="centro" alt="luizandradedm"alta="10" largura="10" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&formato=png&color=000000">
-<img alinhar="centro" alt="luizandradedm"alta="10" largura="10" src="https://img.icons8.com/?size=100&id=13441&formato=png&color=000000">  
-<img alinhar="centro" alt="luizandradedm"alta="10" largura="10" src="https://img.icons8.com/?size=100&id=vFFJFfHoOHvj&formato=png&color=000000">  
+<div style="display: inline_block"><br>
+ <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
+
 </div>
 
 ##

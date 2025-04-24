@@ -1,26 +1,30 @@
-nome: Gerar Dados
+name: Gerar Dados
 
-em:
- horário:
-    - cron: "0*/12****"
- fluxo de trabalho_despacho:
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
-empregos:
- construir:
- nome: Empregos para atualizar dados
- corre: ubuntu-último
- passos:
-      - usos: ações/checkout@v2
+jobs:
+  build:
+    name: Empregos para atualizar dados
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v2
 
-      - usos: Platane/snk@master
- com:
- github_user_name: luizandradedm
- svg_out_path: dist/github-contribution-grid-snake.svg
- caminho Gif_out_: dist/github-contribution-grid-snake.gif
+      - name: Geração da Cobra de Contribuição
+        uses: Platane/snk@v3
+        with:
+          github_user_name: luizandradedm
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
 
-      - usos: crazy-max/ghaction-github-pages@v2.1.3
- com:
- target_branch: saída
- construir_dir: dist
- env:
- GITHUB_TOKEN: ${{ segredos.GITHUB_TOKEN }}
+      - name: Publicar no GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

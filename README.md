@@ -1,16 +1,14 @@
-## Hi there 👋
+Olá! Sejam Bem-vendo ao meu delirio!🤯
+<div estilo="exibição: inline_block"><br>
+ <img alinhar="centro" alt="luizandradedm"alta="30" largura="40" src="https://img.icons8.com/?size=100&id=49190&format=png&color=000000">
+ <img alinhar="centro" alt="luizandradedm"alta="30" largura="40" src="https://img.icons8.com/?size=100&id=0tpqgxISselU&format=png&color=000000">
+ <img alinhar="centro" alt="luizandradedm"alta="30" largura="40" src="https://img.icons8.com/?size=100&id=YWDsCjL0c2qv&format=png&color=000000">
+<img alinhar="centro" alt="luizandradedm"alta="30" largura="40" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000">
+<img alinhar="centro" alt="luizandradedm"alta="30" largura="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">  
+<img alinhar="centro" alt="luizandradedm"alta="30" largura="40" src="https://img.icons8.com/?size=100&id=vFFJFfHoOHvj&format=png&color=000000">  
+</div>
 
-<!--
-**luizandradedm/luizandradedm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://instagram.com/luizandradedm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luizandradeadm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
